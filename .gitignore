@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 .idea
-/src/woz_train.dataset/
+/src/woz_*.dataset/
 /src/gtod/
 /script_debug/
