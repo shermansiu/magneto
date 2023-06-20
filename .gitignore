@@ -132,4 +132,3 @@ dmypy.json
 /src/woz_train.dataset/
 /src/gtod/
 /script_debug/
-/datasets/**
