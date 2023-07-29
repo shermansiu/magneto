@@ -132,3 +132,5 @@ dmypy.json
 /src/woz_*.dataset/
 /src/gtod/
 /script_debug/
+/src/wandb/
+/src/script_debug/
