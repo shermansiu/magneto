@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 .idea
+/src/templates_paraphrase_*.dataset/
 /src/woz_*.dataset/
 /src/gtod/
 /script_debug/
